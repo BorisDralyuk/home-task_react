@@ -1,0 +1,14 @@
+.card-item{
+	height: 100px;
+	background-color: antiquewhite;
+}
+
+.table{
+	width: 90%;
+	margin: 10px 50px 0 50px;
+	text-align: center;
+}
+
+.table thead{
+	background-color: #dee2e6;
+}
